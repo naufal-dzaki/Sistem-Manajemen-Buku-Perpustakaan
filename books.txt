@@ -1,0 +1,5 @@
+1|Pemrograman Lanjut|Vernando Hian|2024
+2|Basis Data|Naufal Dzaki|2025
+3|Statistik Komputasi|Devanka Putra|2020
+4|Algoritma Pemrograman|Arjun Permono|2022
+5|Belanegara|Rizki Darmawan|2024
